@@ -362,21 +362,6 @@ flowchart LR
 
 ---
 
-## 13. 项目截图
-
-建议在仓库中创建 `assets/` 文件夹，并补充以下截图：
-
-```text
-assets/
-├── agent-home.png              # Agent 首页或体验入口
-├── workflow-overview.png       # Coze 工作流全景
-├── knowledge-base.png          # 教材知识库示例
-├── normal-dialogue.png         # 正常分步引导案例
-├── badcase-before-after.png    # Bad Case 优化前后对比
-└── evaluation-sheet.png        # 测试记录或评估表
-```
-
-在补充图片后，可以取消下面的注释并替换文件名：
 
 <!--
 ### Agent 页面
@@ -398,7 +383,7 @@ assets/
 
 ---
 
-## 14. 项目总结
+## 13. 项目总结
 
 这个项目的重点不在于让大模型“更快地算出答案”，而在于通过产品规则、知识约束和工作流编排，控制模型在合适的时机提供合适的信息。
 
